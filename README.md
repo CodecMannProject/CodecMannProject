@@ -1,5 +1,5 @@
 # Hi there, I'm Nike Style! 👋
-## Pronouns: he/him
+### Pronouns: he/him
 
 ## Can work with:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
