@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Nike Style! 👋
+## Pronouns: he/him
+
+## Can work with:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,django,python&theme=dark)](https://skillicons.dev)
+
+## Working on:
+# -- FNaF Python Edition ()
 
 <!--
 **NikeStyleProject/NikeStyleProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
