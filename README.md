@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
 
 ## Working on:
-### -- FNaF Python Edition ([repository here](https://github.com/NikeStyleProject/FNaF-Python/tree/main)) (0% made)
+### -- Project:SNS [repository here](https://github.com/NikeStyleProject/project-sms)
 
 <!--
 **NikeStyleProject/NikeStyleProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
