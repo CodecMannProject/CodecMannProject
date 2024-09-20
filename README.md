@@ -10,7 +10,5 @@
 ## Working on:
 - ### Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
 
-## WakaTime Stats:
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
