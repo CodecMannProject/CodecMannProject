@@ -1,11 +1,21 @@
 # Hi there, I'm Nike Style! 👋
+
 ### Pronouns: he/him
+
+___
 
 ## Can work with:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
 
+___
+
 ## Working on:
-### -- Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
+- ### Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
+
+___
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **NikeStyleProject/NikeStyleProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
