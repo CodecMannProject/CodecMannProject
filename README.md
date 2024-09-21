@@ -11,4 +11,9 @@
 - ### Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   52 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
