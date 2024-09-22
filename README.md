@@ -10,6 +10,8 @@
 ## Working on:
 - ### Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
 
+## WakaTime:
+
 <!--START_SECTION:waka-->
 
 ```txt
