@@ -1,4 +1,4 @@
-# Hi there, I'm Nike Style! 👋
+# Hi there, I'm CodecMann! 👋
 
 ### Pronouns: he/him
 
