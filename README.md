@@ -4,7 +4,7 @@
 
 
 ## Can work with:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
 
 
 ## Working on:
