@@ -3,7 +3,7 @@
 ### Pronouns: he/him
 
 
-## Can work with:
+## Work with:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,django,python,bots&theme=dark)](https://skillicons.dev)
 
 
