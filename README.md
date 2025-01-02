@@ -15,7 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-AutoHotkey   13 mins         █████████████████████████   100.00 %
+HTML         27 mins         ████████████████▒░░░░░░░░   65.86 %
+AutoHotkey   13 mins         ████████░░░░░░░░░░░░░░░░░   31.93 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
