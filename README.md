@@ -15,9 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       34 mins         ███████████████████████▓░   94.01 %
-AutoHotkey   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+AutoHotkey   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
