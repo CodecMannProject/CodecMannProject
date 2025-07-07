@@ -15,7 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      9 mins          █████████████████░░░░░░░░   68.29 %
+Batchfile   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+RPMSpec     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->
