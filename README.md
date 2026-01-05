@@ -8,7 +8,8 @@
 
 
 ## Working on:
-- ### Project : SMS -- [repository here](https://github.com/NikeStyleProject/project-sms)
+- ### DiscPy RAT -- [repository here](https://github.com/CodecMannProject/DiscPyRat)
+- ### Project : SMS -- [repository here](https://github.com/CodecMannProject/project-sms)
 
 ## WakaTime stats:
 
