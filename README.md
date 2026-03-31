@@ -16,9 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 mins               ██████████████░░░░░░░░░░░   56.65 %
-Batchfile    13 mins               ██████████▓░░░░░░░░░░░░░░   42.52 %
-PowerShell   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python      27 mins               █████████████████░░░░░░░░   67.45 %
+Batchfile   13 mins               ████████░░░░░░░░░░░░░░░░░   32.55 %
 ```
 
 <!--END_SECTION:waka-->
